@@ -1,2 +1,2 @@
 NOthing here
-:sm
+:smile:
