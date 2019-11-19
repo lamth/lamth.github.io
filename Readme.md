@@ -2,7 +2,7 @@
 
 ### Linux | KVM | Openstack | Docker
 
-[LULU](https://i.imgur.com/jQtqbx9.png)
+![](https://i.imgur.com/jQtqbx9.png)
 
 <head>
   <meta charset="UTF-8">
