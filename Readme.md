@@ -19,4 +19,4 @@
 
 - [Ghi chép trong quá trình thực tập tại Meditech .JSC](https://lamth.github.io/Report-MDT/)
 - [Ghi chép quá trình tìm hiểu Docker](https://lamth.github.io/ghichep-docker/)
-- [Ghi chép quá trình tìm hiểu Openstack](https://lamth.github.io/ghichep-Openstack/)
+- [Ghi chép quá trình tìm hiểu Openstack](https://lamth.github.io/note-penstack/)
